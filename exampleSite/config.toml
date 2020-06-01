@@ -1,4 +1,4 @@
-baseURL = "https://spirit-safee-amaan.netlify.app/"
+baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Jane Doe"
@@ -46,7 +46,7 @@ url = "https://www.instagram.com/"
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:test@test.com"
 
 ## Menu items
 
